@@ -8,12 +8,12 @@ const Home = () => {
         {/* container */}
         <div className='max-w-[1000px] mx-auto px-8 flex flex-col justify-center h-full'>
             <p className='text-pink-600'>Hi, my name is</p>
-            <h1 className='text-4xl sm:text-7xl font-bold text-[#ccd6f6]'>Aarif A</h1>
-            <h2 className='text-4xl sm:text-7xl font-bold text-[#8892b0]'>I'm a Frontend Developer.</h2>
-            <p className='text-[#8892b0] py-4 max-w-[700px] text-[70%] font-semibold'>I am a Front-end web Developer who has been learning for past 5 months. I love to design and develop various react applications. For more info (Click resume!).</p>
+            <h1 className='text-4xl sm:text-7xl font-bold text-[#ccd6f6]'>Mohamed Ameer</h1>
+            <h2 className='text-4xl sm:text-7xl font-bold text-[#8892b0]'>I'm a Designer.</h2>
+            <p className='text-[#8892b0] py-4 max-w-[700px] text-[70%] font-semibold'>Passionate graphic and UI/UX designer creating captivating digital experiences through seamless design and meticulous attention to detail. For more info (Click resume!).</p>
 
             <div>
-              <a href="https://drive.google.com/file/d/1o3A-xp7CwdUpL-lQOdrBH3lusMM7SccZ/view?usp=drivesdk" target='_blank' rel="noreferrer">
+              <a href="https://drive.google.com/file/d/16_y5I5oJanb4h43q1y_kGgJASmOKJe0g/view?usp=drivesdk" target='_blank' rel="noreferrer">
                 <button className='text-white group border-2 px-6 py-3 my-2 flex items-center hover:bg-pink-500 hover:border-pink-500'> Resume
                 <span className='group'>
                 <BsFillPersonLinesFill  className='ml-3' />

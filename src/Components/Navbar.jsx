@@ -1,6 +1,7 @@
 import React, {useState} from 'react'
-import {FaBars, FaTimes, FaGithub, FaLinkedin,} from 'react-icons/fa'
+import {FaBars, FaTimes, FaLinkedin,} from 'react-icons/fa'
 import {HiOutlineMail} from 'react-icons/hi'
+import {SiBehance} from 'react-icons/si'
 import Logo from '../Assets/Asymbol.svg.png'
 import {Link} from 'react-scroll'
 
@@ -44,19 +45,19 @@ const Navbar = () => {
         <div className='hidden lg:flex fixed flex-col top-[35%] left-0'>
             <ul>
                 <li className='w-[180px] h-[60px] flex justify-between items-center ml-[-120px] hover:ml-[-10px] duration-300 bg-blue-600'>
-                    <a href='https://www.linkedin.com/in/aarif-a-sde' target='_blank' rel="noreferrer" className='flex justify-between items-center w-full text-gray-300'>
+                    <a href='https://www.linkedin.com/in/mohamed-ameer-9a614824a/' target='_blank' rel="noreferrer" className='flex justify-between items-center w-full text-gray-300'>
                         Linkedin <FaLinkedin size={30} />
                     </a>
                 </li>
 
                 <li className='w-[180px] h-[60px] flex justify-between items-center ml-[-120px] hover:ml-[-10px] duration-300 bg-[#333333]'>
-                    <a  href='https://github.com/Aarifsde' target='_blank' rel="noreferrer" className='flex justify-between items-center w-full text-gray-300'>
-                        Github <FaGithub size={30} />
+                    <a  href='https://www.behance.net/mohamedameer5' target='_blank' rel="noreferrer" className='flex justify-between items-center w-full text-gray-300'>
+                        Behance <SiBehance size={30} />
                     </a>
                 </li>
 
                 <li className='w-[180px] h-[60px] flex justify-between items-center ml-[-120px] hover:ml-[-10px] duration-300 bg-[#6fc2b0]'>
-                    <a href="mailto:aarifsde@gmail.com" className='flex justify-between items-center w-full text-gray-300'>
+                    <a href="mailto:ameer23009@gmail.com" className='flex justify-between items-center w-full text-gray-300'>
                         Email <HiOutlineMail size={30} />
                     </a>
                 </li>

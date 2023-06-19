@@ -14,11 +14,11 @@ const About = () => {
                 </div>
                 <div className='max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4'>
                     <div className='sm:text-right text-4xl font-bold '>
-                        <p>Hi, I'm Aarif, nice to meet you. Please take a look around.</p>
+                        <p>Hi, I'm Mohamed Ameer, nice to meet you. Please take a look around.</p>
                     </div>
                     <div>
                         <p className='text-[60%] font-medium'>
-                        Fresher with an adequate knowledge in Front-end Developing with the help of technologies mentioned below. Looking forward to a team to work with, collaborate, implement and learn new skills in the programming environment.
+                        Experienced graphic and UI/UX designer passionate about creating captivating digital experiences. Combining aesthetics and functionality to deliver seamless designs. Let's bring your vision to life through thoughtful design.
                         </p>
                     </div>
                 </div>
