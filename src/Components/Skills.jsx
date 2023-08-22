@@ -51,7 +51,7 @@ const Skills = () => {
                 </div>
                 <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
                     <img className='w-20 mx-auto' src={Html} alt="Github" />
-                    <p className='my-4'>HTML</p>
+                    <p className='my-4'>HTML5</p>
                 </div>
                 <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
                     <img className='w-20 mx-auto' src={Css} alt="Github" />
