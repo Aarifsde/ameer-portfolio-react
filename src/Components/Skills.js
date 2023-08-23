@@ -5,7 +5,7 @@ import Illu from '../Assets/ai.png'
 import Photo from '../Assets/ps.png'
 import PP from '../Assets/pr.png'
 import Sk from '../Assets/sketch.png'
-import Html from '../Assets/html.png'
+import Html from '../Assets/Html.png'
 import Css from '../Assets/css.png'
 
 
